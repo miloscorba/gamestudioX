@@ -1,0 +1,16 @@
+sk\tuke\gamestudio\service\ScoreService.class
+sk\tuke\gamestudio\service\ContactWinnerBean.class
+sk\tuke\gamestudio\webservice\CommentRestService.class
+sk\tuke\gamestudio\service\CommentService.class
+sk\tuke\gamestudio\service\RatingServiceImplJPA.class
+sk\tuke\gamestudio\entity\Comment.class
+sk\tuke\gamestudio\webservice\ScoreRestService.class
+sk\tuke\gamestudio\entity\Score.class
+sk\tuke\gamestudio\service\ContactWinnerBean$SocialAuth.class
+sk\tuke\gamestudio\webservice\RestApplication.class
+sk\tuke\gamestudio\service\CommentServiceImplJPA.class
+sk\tuke\gamestudio\service\ScoreServiceImplJPA.class
+sk\tuke\gamestudio\webservice\RatingRestService.class
+sk\tuke\gamestudio\service\ScoreException.class
+sk\tuke\gamestudio\entity\Rating.class
+sk\tuke\gamestudio\service\RatingService.class
